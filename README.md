@@ -83,7 +83,7 @@ This project blends technical rigor with ethical design, offering a reproducible
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/alzheimer-mri-classification.git
+git clone https://github.com/reetamit/Alzheimers_Detection_ML.git
 
 # Install dependencies
 pip install -r requirements.txt
