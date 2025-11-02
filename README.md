@@ -82,16 +82,16 @@ This project blends technical rigor with ethical design, offering a reproducible
 ## 🚀 How to Run
 
 1. Clone the repo
-```bash
-git clone https://github.com/reetamit/Alzheimers_Detection_ML.git
+    ```bash
+    git clone https://github.com/reetamit/Alzheimers_Detection_ML.git
 
 2. Install dependencies
-```bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Make your MRI image train and test file as parquet format
 4. update drive_path = "[Set your project data path location where you stored both parquet file]"
 
-```bash
-jupyter nbconvert --execute --inplace --to notebook AI_Alzheimer_Detection.ipynb
-#Model will same as file name AI_Alzmrmdl_enetb0.pth at your project data path
+    ```bash
+    jupyter nbconvert --execute --inplace --to notebook AI_Alzheimer_Detection.ipynb
+    #Model will same as file name AI_Alzmrmdl_enetb0.pth at your project data path
